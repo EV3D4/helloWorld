@@ -9,7 +9,6 @@ body {
   position: absolute;
   height: 100%;
   width: 100%;
-  background: red;
 }
 
 div.cardBox {
@@ -19,5 +18,4 @@ div.cardBox {
   text-align: center;
   padding-top: 150px;
   font-size: 100px;
-
 }

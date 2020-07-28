@@ -5,17 +5,16 @@
 body {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: right;
   position: absolute;
   height: 100%;
   width: 100%;
+  background-image: url("assets/ink.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
 }
 
-div.cardBox {
-  margin: auto;
-  width: 900px;
-  height: 500px;
-  text-align: center;
-  padding-top: 150px;
-  font-size: 100px;
+.cardBox{
+  padding: 1em;
 }

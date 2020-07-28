@@ -16,5 +16,8 @@ body {
 }
 
 .cardBox{
-  padding: 1em;
+  padding: 1.15em;
+}
+a {
+  text-decoration: none !important;
 }
